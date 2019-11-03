@@ -1,0 +1,14 @@
+{
+  "en-US": "English",
+  "hu": "Hungarian",
+  "general": {
+    "title": "Angular i18n application",
+    "subtitle": "A demo application to show how to use Angular @ngx-translate/core translation module",
+    "hello": "Hello!",
+    "my_name_is_x": "My name is {{name}}!",
+    "html_code_text": "Test <code>HTML code</code> translation"
+  },
+  "lorem_ipsum": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci culpa ipsam quam quia quis voluptas voluptatibus! Deserunt, placeat sed? Accusamus assumenda at blanditiis consequatur deserunt eum laudantium libero ut veritatis.",
+  "missing_hu": "Hungarian translation is missing. So fallback to English!",
+  "language": "Language"
+}

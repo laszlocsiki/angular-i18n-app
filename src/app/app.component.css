@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+  height: 30vh;
+  width: 100%;
+  background-color: red;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.header__title, .header__subtitle {
+  color: #FFFFFF;
+}
+
+.main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 1rem;
+  background-color: #DDDDDD;
+}
+.main__showcase, .main__select {
+  padding-left: 1rem;
+  padding-top: 1rem;
+}
+
+.main__select {
+  display: flex;
+  flex-direction: column;
+  max-width: 5rem;
+}
+

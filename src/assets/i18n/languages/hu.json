@@ -1,0 +1,13 @@
+{
+  "en-US": "Angol",
+  "hu": "Magyar",
+  "general": {
+    "title": "Angular i18n applikáció",
+    "subtitle": "Angular @ngx-translate/core forditó modul használatát bemutató demó alkalmazás",
+    "hello": "Hello!",
+    "my_name_is_x": "A nevem {{name}}!",
+    "html_code_text": "<code>HTML kod</code> teszt forditás."
+  },
+  "lorem_ipsum": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci culpa ipsam quam quia quis voluptas voluptatibus! Deserunt, placeat sed? Accusamus assumenda at blanditiis consequatur deserunt eum laudantium libero ut veritatis.\n",
+  "language": "Nyelv"
+}
